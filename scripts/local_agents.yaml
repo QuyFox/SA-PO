@@ -1,0 +1,7 @@
+agents:
+  - name: sa
+    path: agents/sa
+    port: 8004
+  - name: po
+    path: agents/po
+    port: 8005
