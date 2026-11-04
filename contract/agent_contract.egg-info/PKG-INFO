@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: agent-contract
+Version: 1.0.0
+Summary: Gói Contract dùng chung cho 10 AI Agent (Agent Contract v1.0)
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"
+
+# agent-contract (v1.0.0)
+
+Gói Contract chuẩn hóa giao thức dữ liệu (Pydantic v2) dùng chung cho 10 AI Agent:
+PM, SA, BA, PO, DEV, TESTER, DEVOPS, DBA, SCRUM_MASTER, SECURITY.
+
+## Cài đặt chế độ editable
+```bash
+pip install -e ./contract
+```
+
+## Sử dụng
+```python
+from agent_contract import (
+    CONTRACT_VERSION,
+    AgentRole,
+    TaskRequest,
+    TaskResult,
+    TaskStatus,
+    make_error,
+    failed_result,
+    blocked_result,
+)
+```

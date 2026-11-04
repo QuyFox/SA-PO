@@ -1,0 +1,24 @@
+{
+  "task_id": "TASK-CORRUPT-999",
+  "product_name": "AI Managed Software Platform",
+  "features": [
+    {
+      "id": "FEAT-01",
+      "title": "Agent Orchestration Engine",
+      "priority": "HIGH",
+      "estimate_story_points": 8
+    },
+    {
+      "id": "FEAT-02",
+      "title": "Linear Issue Two-way Sync",
+      "priority": "HIGH",
+      "estimate_story_points": 5
+    },
+    {
+      "id": "FEAT-03",
+      "title": "Automated Quality Gates",
+      "priority": "MEDIUM",
+      "estimate_story_points": 5
+    }
+  ]
+}

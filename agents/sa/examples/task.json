@@ -1,0 +1,15 @@
+{
+  "contract_version": "1.0.0",
+  "task_id": "TASK-SA-001",
+  "project_id": "PROJECT-SAMPLE",
+  "agent_id": "sa-01",
+  "role": "SA",
+  "action": "design_architecture",
+  "instruction": "Thực hiện tác vụ mẫu cho SA Agent",
+  "context": {},
+  "input_artifacts": [],
+  "constraints": {
+    "priority": "MEDIUM",
+    "timeout_seconds": 60
+  }
+}

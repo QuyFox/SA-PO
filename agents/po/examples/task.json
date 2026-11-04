@@ -1,0 +1,15 @@
+{
+  "contract_version": "1.0.0",
+  "task_id": "TASK-PO-001",
+  "project_id": "PROJECT-SAMPLE",
+  "agent_id": "po-01",
+  "role": "PO",
+  "action": "define_vision",
+  "instruction": "Thực hiện tác vụ mẫu cho PO Agent",
+  "context": {},
+  "input_artifacts": [],
+  "constraints": {
+    "priority": "MEDIUM",
+    "timeout_seconds": 60
+  }
+}

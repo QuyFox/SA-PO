@@ -1,0 +1,82 @@
+[
+  {
+    "artifact_id": "ART-001",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:52:06.320724Z",
+    "checksum": "85d52c22480e44bddd981518b36b2deed01383ce041dba48341b1d60f3a495b5"
+  },
+  {
+    "artifact_id": "ART-002",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:52:22.641522Z",
+    "checksum": "85d52c22480e44bddd981518b36b2deed01383ce041dba48341b1d60f3a495b5"
+  },
+  {
+    "artifact_id": "ART-003",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:53:46.579309Z",
+    "checksum": "1ed1acf155a44863f46f78cc4515dbefad1cf2e9628ac261d3e98ab274005c44"
+  },
+  {
+    "artifact_id": "ART-004",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:53:46.602989Z",
+    "checksum": "77d574c9c33d07b24bccaadd9c2ea36c542b21fcc5029858549c306ab9eec567"
+  },
+  {
+    "artifact_id": "ART-005",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:55:01.473425Z",
+    "checksum": "c9a40d972bb6683c34301096c6e1b281c85286b543ed3d40d365f0246ed962ff"
+  },
+  {
+    "artifact_id": "ART-006",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:55:01.495104Z",
+    "checksum": "a297f532b89ee69f68cd5c388229bce6b6a0572b5f7fa348b13a1e945315d5f6"
+  },
+  {
+    "artifact_id": "ART-007",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:57:51.764574Z",
+    "checksum": "c9a40d972bb6683c34301096c6e1b281c85286b543ed3d40d365f0246ed962ff"
+  },
+  {
+    "artifact_id": "ART-008",
+    "name": "architecture.md",
+    "type": "ARCHITECTURE",
+    "version": "1.0",
+    "uri": "artifacts/architecture.md",
+    "created_by": "sa-01",
+    "created_at": "2026-11-04T04:57:51.775522Z",
+    "checksum": "a297f532b89ee69f68cd5c388229bce6b6a0572b5f7fa348b13a1e945315d5f6"
+  }
+]
